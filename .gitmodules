@@ -1,0 +1,3 @@
+[submodule "Projet_1/STI_Project"]
+	path = Projet_1/STI_Project
+	url = git@github.com:lionelburgbach/STI_Project.git
